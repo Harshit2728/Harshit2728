@@ -16,7 +16,10 @@
 - ❓ Curious about anything related to data analysis, SQL, or transforming data into actionable insights? Just ask!  
   
 
-- ⚡ Fun fact: I use tabs over spaces⚡ Fun fact: I believe in the magic of clean, organized data—it's the key to unlocking insights!  
+- ⚡ Fun fact: I believe in the magic of clean, organized data—it's the key to unlocking insights!
+    
+
+- 🚀 Let’s connect and explore the endless possibilities of data together!
   
 
 <br/>  
