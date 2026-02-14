@@ -49,6 +49,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -75,20 +77,86 @@
 </div>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshit2728&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit2728&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="GitHub Streak" />
+  <a href="https://github.com/Harshit2728">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harshit2728&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harshit2728&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit2728&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=Harshit2728&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit2728&theme=algolia" alt="Harshit's GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshit2728&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies"/>
+</p>
+
+---
 
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=Harshit2728&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-  
+## 💼 Featured Data Analysis Projects
+
 </div>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏨 Hotel Booking Analysis</h3>
+      <div align="center">
+        <a href="https://github.com/Harshit2728/Hotel-Booking-Cancellation" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p><strong>Python, Pandas, Data Visualization</strong></p>
+        <p>📊 Analyzed hotel booking patterns and cancellation trends to optimize revenue management</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">👟 Adidas Sales Dashboard</h3>
+      <div align="center">
+        <a href="https://github.com/Harshit2728/Adidas_USA_Sales" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p><strong>Excel, Power BI, Data Analysis</strong></p>
+        <p>📈 Interactive dashboard tracking sales performance across US regions</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏅 Paris Olympics 2024 Analysis</h3>
+      <div align="center">
+        <a href="https://github.com/Harshit2728/paris_olympics_2024" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p><strong>Python, Data Analytics</strong></p>
+        <p>🥇 Statistical analysis of Olympic performance metrics and trends</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">💻 Portfolio Projects</h3>
+      <div align="center">
+        <a href="https://github.com/Harshit2728/first_code" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+        </a>
+        <p><strong>Various Technologies</strong></p>
+        <p>🚀 Collection of coding projects and data analysis experiments</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  
+## 📊 Contribution Graph
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit2728&theme=react-dark&bg_color=20232a&hide_border=true&line=58a6ff&point=1f6feb" alt="Contribution Graph"/>
+</p>
 
 ---
 
@@ -98,15 +166,23 @@
 
 </div>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-chauhan-403a93241)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshit2728)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/harshitchauhan027)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_harshit__chauhan_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshit-chauhan-403a93241" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Harshit2728" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.kaggle.com/harshitchauhan027" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://www.instagram.com/_harshit__chauhan_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
@@ -114,7 +190,39 @@
   
 ## 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Profile Stats
+
+![](https://komarev.com/ghpvc/?username=Harshit2728&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://img.shields.io/github/followers/Harshit2728?style=for-the-badge&color=2E9EF7&labelColor=0D1117&label=FOLLOWERS)
+![](https://img.shields.io/github/stars/Harshit2728?style=for-the-badge&color=2E9EF7&labelColor=0D1117&label=TOTAL+STARS)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎓 Skills & Expertise
+
+### Data Analysis
+📊 Exploratory Data Analysis (EDA) | 📈 Statistical Analysis | 🔍 Data Cleaning & Preprocessing
+
+### Visualization
+📉 Dashboard Creation | 🎨 Data Storytelling | 📱 Interactive Reports
+
+### Database Management
+💾 Query Optimization | 🗄️ Database Design | 🔄 ETL Processes
+
+### Business Intelligence
+💼 KPI Development | 📋 Report Automation | 🎯 Data-Driven Insights
 
 </div>
 
@@ -122,45 +230,12 @@
 
 <div align="center">
   
-## 📊 This Week I Spent My Time On
-
-</div>
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<div align="center">
+### 💡 "Data is the new oil, but insights are the fuel that drives decisions!" 💡
   
-### 💖 Support My Work
-
-If you find my projects helpful, consider buying me a coffee! ☕
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/harshit)
-
-</div>
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Harshit2728&color=2E9EF7&style=for-the-badge)
-  
-  ### ⭐ Show some love by starring my repositories!
+### ⭐ Show some love by starring my repositories!
   
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
-
----
-
-<div align="center">
-  <i>✨ "Data is the new oil, but insights are the fuel!" ✨</i>
 </div>
