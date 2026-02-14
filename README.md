@@ -1,203 +1,181 @@
-# 🎨 GitHub Profile README - Setup Guide
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Harshit!%20👋&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
+</div>
 
-## ✨ What's New & Interactive Features
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=800&lines=Data+Analyst+%F0%9F%93%8A;Transforming+Data+into+Insights+%E2%9C%A8;Dashboard+Creator+%F0%9F%93%88;SQL+Enthusiast+%F0%9F%92%BB;Storyteller+with+Data+%F0%9F%9A%80)](https://git.io/typing-svg)
+  
+</div>
 
-Your enhanced README now includes:
+<br/>
 
-### 1. **Animated Header & Footer**
-- Wave animation using Capsule Render
-- Custom gradient colors
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 2. **Typing Animation**
-- Auto-rotating text showing your skills
-- Powered by readme-typing-svg
+### 🚀 About Me
 
-### 3. **Dynamic GitHub Stats**
-- Real-time stats that update automatically
-- Streak stats showing your consistency
-- Language distribution chart
-- Activity graph
-- Trophy showcase
+- 🔭 **Currently Working On:** Crafting insightful dashboards that tell powerful data stories!
+  
+- 🌱 **Learning:** Advanced data visualization techniques & predictive analytics
+  
+- 💡 **Passionate About:** Transforming raw data into actionable insights
+  
+- 🎯 **Goal:** Making data-driven decision making accessible to everyone
+  
+- ⚡ **Fun Fact:** I believe clean data is like a well-organized closet—everything has its place!
+  
+- 💬 **Ask Me About:** Data Analysis, SQL, Python, Power BI, or anything data-related!
 
-### 4. **Interactive Badges**
-- Clickable skill badges
-- Social media connection buttons
-- All with consistent theming
-
-### 5. **Random Dev Quotes**
-- Auto-updating motivational quotes
-- Refreshes on each page load
-
----
-
-## 🚀 Optional Enhancements (Copy & Paste)
-
-### Add WakaTime Stats (Coding Activity)
-1. Sign up at https://wakatime.com/
-2. Install WakaTime plugin in VS Code
-3. Add this to your README between the `<!--START_SECTION:waka-->` tags
-4. Set up GitHub Action: https://github.com/athul/waka-readme
-
-### Add Spotify Now Playing
-Replace the placeholder section with:
-```markdown
-### 🎵 Now Playing on Spotify
-
-[![Spotify](https://novatorem-harshit.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-```
-Setup: https://github.com/novatorem/novatorem
-
-### Add Snake Animation (Contribution Graph)
-Add this to your README:
-```markdown
-![Snake animation](https://github.com/Harshit2728/Harshit2728/blob/output/github-contribution-grid-snake.svg)
-```
-Setup GitHub Action: https://github.com/Platane/snk
-
-### Add Metrics Card
-```markdown
-![Metrics](https://metrics.lecoq.io/Harshit2728?template=classic&config.timezone=Asia%2FKolkata)
-```
-
----
-
-## 📝 Customization Tips
-
-### Change Color Scheme
-Current theme: **Tokyo Night** (Dark Blue)
-
-Other popular themes:
-- `radical` - Pink/Purple
-- `merko` - Green
-- `gruvbox` - Retro/Vintage
-- `dracula` - Purple/Pink
-- `onedark` - Dark with blue accents
-- `cobalt` - Blue
-- `synthwave` - Neon/Cyberpunk
-- `highcontrast` - Black & White
-- `github_dark` - GitHub's dark theme
-
-Replace `theme=tokyonight` with any theme name above.
-
-### Customize Typing Animation
-Edit the lines in the typing SVG URL:
-```
-&lines=Your+First+Line;Your+Second+Line;Your+Third+Line
-```
-
-### Add More Skills
-Use https://shields.io/ to create custom badges:
-```markdown
-![Skill](https://img.shields.io/badge/SKILL-COLOR?style=for-the-badge&logo=LOGO&logoColor=white)
-```
-
----
-
-## 🔧 Setup Instructions
-
-1. **Create a Special Repository**
-   - Create a new repository with the EXACT same name as your GitHub username: `Harshit2728`
-   - Make it public
-   - Initialize with a README
-
-2. **Copy the Enhanced README**
-   - Replace the default README.md with the new content
-
-3. **Update Placeholder Links**
-   - Replace `your-repo-name` in Featured Projects section
-   - Add your actual email in the Gmail badge
-   - Update any other personal links
-
-4. **Optional: Add GitHub Actions**
-   For auto-updating content, add these workflows:
-   - `.github/workflows/blog-post-workflow.yml` for blog posts
-   - `.github/workflows/waka-readme.yml` for WakaTime stats
-
----
-
-## 🎯 Quick Wins for More Interactivity
-
-### 1. Add Visitor Map
-```markdown
-![Visitor Map](https://profile-counter.glitch.me/Harshit2728/count.svg)
-```
-
-### 2. Add GitHub Skyline (3D Contributions)
-```markdown
-🏙️ [View my GitHub Skyline](https://skyline.github.com/Harshit2728/2024)
-```
-
-### 3. Add Pinned Repositories
-On GitHub, go to your profile → Customize your pins → Select your best 6 repos
-
-### 4. Profile README Generator Tools
-- https://profilinator.rishav.dev/
-- https://rahuldkjain.github.io/gh-profile-readme-generator/
-- https://arturssmirnovs.github.io/github-profile-readme-generator/
-
----
-
-## 🌟 Best Practices
-
-1. **Keep it Updated**: Regularly update your projects and achievements
-2. **Mobile-Friendly**: Test how it looks on mobile
-3. **Load Time**: Don't overload with too many dynamic elements
-4. **Personal Touch**: Add your personality—emojis, quotes, humor!
-5. **Call-to-Action**: Guide visitors to your best work
-6. **Professional Balance**: Keep it fun but professional
-
----
-
-## 📚 Resources
-
-- **Awesome GitHub Profile READMEs**: https://github.com/abhisheknaiidu/awesome-github-profile-readme
-- **Shields.io**: https://shields.io/ (for custom badges)
-- **Simple Icons**: https://simpleicons.org/ (for logos)
-- **GitHub Readme Stats**: https://github.com/anuraghazra/github-readme-stats
-- **Readme Typing SVG**: https://github.com/DenverCoder1/readme-typing-svg
-
----
-
-## 🎨 Color Palette Used
-
-- Primary: `#2E9EF7` (Bright Blue)
-- Background: `#0D1117` (Dark)
-- Text: `#C9D1D9` (Light Gray)
-- Accent: `#FF6B6B` (Coral Red)
-
----
-
-## ✅ Checklist Before Publishing
-
-- [ ] Updated all placeholder text
-- [ ] Fixed all broken links
-- [ ] Added real project repositories
-- [ ] Tested all social media links
-- [ ] Checked mobile responsiveness
-- [ ] Added email address
-- [ ] Verified GitHub stats are working
-- [ ] Profile picture is professional
-- [ ] Repository description is filled
-- [ ] Added topics/tags to repos
-
----
-
-## 💡 Pro Tips
-
-1. **Pin Your Best Work**: Use GitHub's pin feature to showcase top projects
-2. **Consistent Commits**: Keep your contribution graph active
-3. **Add Descriptions**: Write clear descriptions for all repositories
-4. **Use Topics**: Add relevant topics to make repos discoverable
-5. **README for Projects**: Every project should have a good README
-6. **License Your Code**: Add appropriate licenses
-7. **Engage**: Comment, star, and contribute to others' work
+<br clear="right"/>
 
 ---
 
 <div align="center">
   
-  **Made with ❤️ and lots of ☕**
+## 🛠️ My Tech Arsenal
+
+</div>
+
+<div align="center">
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📊 Data Analytics & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
   
-  *Ready to make your GitHub profile stand out!*
+## 📈 GitHub Analytics
+
+</div>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshit2728&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit2728&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit2728&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit2728&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FF6B6B" />
+</p>
+
+<div align="center">
   
+  ![](https://github-profile-trophy.vercel.app/?username=Harshit2728&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+  
+</div>
+
+---
+
+<div align="center">
+  
+## 🌟 Featured Projects
+
+</div>
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit2728&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Harshit2728/your-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit2728&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Harshit2728/your-repo-name)
+
+</div>
+
+---
+
+<div align="center">
+  
+## 🤝 Let's Connect!
+
+</div>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-chauhan-403a93241)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshit2728)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/harshitchauhan027)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_harshit__chauhan_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+## 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  
+## 📊 This Week I Spent My Time On
+
+</div>
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💖 Support My Work
+
+If you find my projects helpful, consider buying me a coffee! ☕
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/harshit)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Harshit2728&color=2E9EF7&style=for-the-badge)
+  
+  ### ⭐ Show some love by starring my repositories!
+  
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <i>✨ "Data is the new oil, but insights are the fuel!" ✨</i>
 </div>
