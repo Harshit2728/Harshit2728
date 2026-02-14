@@ -75,34 +75,19 @@
 </div>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshit2728&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit2728&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshit2728&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit2728&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit2728&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit2728&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FF6B6B" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit2728&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=Harshit2728&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" />
 </p>
 
 <div align="center">
   
   ![](https://github-profile-trophy.vercel.app/?username=Harshit2728&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
   
-</div>
-
----
-
-<div align="center">
-  
-## 🌟 Featured Projects
-
-</div>
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit2728&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Harshit2728/your-repo-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit2728&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Harshit2728/your-repo-name)
-
 </div>
 
 ---
